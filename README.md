@@ -3,14 +3,14 @@
 YouTubeシリーズ「Python入門ラボ」のサンプルコードと練習問題です。
 プログラミングが初めての方でも、全10回で「やることリスト」アプリを作れるようになることを目指します。
 
-- 📺 YouTubeチャンネル: [Python入門ラボ](チャンネルのURL)
+- 📺 YouTubeチャンネル: [Python入門ラボ](https://www.youtube.com/@PythonNyumonLab)
 - 💻 動画の解説環境: Windows / Python 3.15 / Visual Studio Code
 
 ## 動画とコード
 
 | 回 | 内容 | 動画 | コード |
 |---|---|---|---|
-| 第1回 | 最初のプログラムを動かそう | [見る](第1回の動画のURL) | [episode01](episode01) |
+| 第1回 | 最初のプログラムを動かそう | [見る](https://www.youtube.com/watch?v=JAalaNbcw68) | [episode01](episode01) |
 | 第2回 | 割り勘計算ツールを作ろう | 準備中 | 準備中 |
 | 第3回 | 診断プログラムを作ろう | 準備中 | 準備中 |
 | 第4回 | 数当てゲームを作ろう | 準備中 | 準備中 |
