@@ -12,7 +12,7 @@ YouTubeシリーズ「Python入門ラボ」のサンプルコードと練習問�
 |---|---|---|---|
 | 第1回 | 最初のプログラムを動かそう | [見る](https://www.youtube.com/watch?v=JAalaNbcw68) | [episode01](episode01) |
 | 第2回 | 割り勘計算ツールを作ろう | [見る](https://youtu.be/EjvAbrit6jA) | [episode02](episode02) |
-| 第3回 | 診断プログラムを作ろう | 準備中 | [episode03](episode03) |
+| 第3回 | 診断プログラムを作ろう | [見る](https://youtu.be/8-h2s_5JTzI) | [episode03](episode03) |
 | 第4回 | 数当てゲームを作ろう | 準備中 | 準備中 |
 | 第5回 | 単語帳アプリを作ろう | 準備中 | 準備中 |
 | 第6回 | 自作の計算ツールを関数で整理しよう | 準備中 | 準備中 |
